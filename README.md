@@ -7,6 +7,7 @@ This is a simple website porject for
 This is show different parts
 ## Purpose
 
+This is a purpose
 ## Deployment
-
+This Deployment
 ## How to Contribute
