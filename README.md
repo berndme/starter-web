@@ -12,3 +12,6 @@ This is a purpose
 ## Deployment
 This Deployment
 ## How to Contribute
+
+###Copyright
+2017 copyright
