@@ -3,6 +3,7 @@
 
 # TEAM
 	Jason Tyler	assa@qwert.de
+	Bernd Meier	berndmeier@gmx.de
     <name> -- <role> -- <twitter>
 
 # THANKS
