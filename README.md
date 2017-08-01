@@ -15,5 +15,9 @@ This Deployment
 Please fork
 
 ###Copyright
+<<<<<<< HEAD
 2017 copyright
 2018 Copyright
+=======
+2017 copyright Copy copy
+>>>>>>> simplechanges
